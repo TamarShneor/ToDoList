@@ -10,7 +10,6 @@ namespace User.Interfaces
         user Get(int id);
        void Add(user t); 
         void Delete(int id);
-        // bool Update(Task t);
         int Count {get;}
     }
 

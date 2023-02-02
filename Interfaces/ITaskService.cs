@@ -6,7 +6,6 @@ namespace MyTask.Interfaces
 {
     public interface ITaskService
     {
-        // List<Task> GetAll();
         List<Task> GetTasksByUserId(int id);
         Task Get(int id);
         void Add(Task t);

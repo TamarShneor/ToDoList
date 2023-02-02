@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "EvVx6Huln1Tq8PZkGFs2R3KVQmh9Jlwgv636GpeSdus=",
+  "Hash": "XGCf4SHjpkU3D40vfaib8Q0et1V/Nfvy3R4R0Sx0WR4=",
   "Source": "task",
   "BasePath": "_content/task",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "task\\wwwroot",
       "Source": "task",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\css\\style.css",
+      "Identity": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\css\\style.css",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\index.html",
+      "Identity": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\index.html",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\js\\app.js",
+      "Identity": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\js\\app.js",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "js/app.js",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app.js"
     },
     {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\js\\app2.js",
+      "Identity": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\js\\app2.js",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "js/app2.js",
       "AssetKind": "All",
@@ -85,27 +85,10 @@
       "OriginalItemSpec": "wwwroot\\js\\app2.js"
     },
     {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\js\\app3.js",
+      "Identity": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\todo.html",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
-      "BasePath": "_content/task",
-      "RelativePath": "js/app3.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\app3.js"
-    },
-    {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\todo.html",
-      "SourceId": "task",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "todo.html",
       "AssetKind": "All",
@@ -119,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\todo.html"
     },
     {
-      "Identity": "C:\\תכנות\\core\\project\\task\\wwwroot\\users.html",
+      "Identity": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\users.html",
       "SourceId": "task",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\תכנות\\core\\project\\task\\wwwroot\\",
+      "ContentRoot": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\wwwroot\\",
       "BasePath": "_content/task",
       "RelativePath": "users.html",
       "AssetKind": "All",

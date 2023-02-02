@@ -845,11 +845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\תכנות\\core\\project\\task\\task.csproj",
+      "projectUniqueName": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\task.csproj",
       "projectName": "task",
-      "projectPath": "C:\\תכנות\\core\\project\\task\\task.csproj",
+      "projectPath": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\task.csproj",
       "packagesPath": "C:\\Users\\Dell Vostro\\.nuget\\packages\\",
-      "outputPath": "C:\\תכנות\\core\\project\\task\\obj\\",
+      "outputPath": "C:\\תכנות\\core\\project\\task\\clone\\project-core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell Vostro\\AppData\\Roaming\\NuGet\\NuGet.Config",

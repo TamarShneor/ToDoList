@@ -1,5 +1,10 @@
-body{
-    margin: 10%;
+body {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.postman-run-button {
+    margin-top: 10px;
 }
 
 input[type='submit'],
@@ -16,6 +21,9 @@ table {
     font-family: Arial, sans-serif;
     /* border: 1px solid; */
     border-collapse: collapse;
+    margin: auto;
+    text-align: center !important;
+
 }
 
 th {
