@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+</head>
+<body>
+
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addUser()">
+        <input type="text" id="add-name" placeholder="Name">
+        <input type="text" id="add-password" placeholder="Password">
+        <input type="submit" value="Add">
+    </form>
+
+    <h3>Users List</h3>
+    <table>
+        <tr>
+            <th>IsAdmin</th>
+            <th>Id</th>
+            <th>Name</th>
+            <th></th>
+        </tr>
+        <tbody id="users"></tbody>
+    </table>
+
+    <script src="js/app3.js"></script>
+    <script type="text/javascript">
+        getUsers();
+    </script>
+</body>
+</html>

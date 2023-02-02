@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Document</title>
+</head>
+<!-- <body>
+    <form action="javascript:void(0);" method="POST" onsubmit="login()">
+        <input type="text" id="name" placeholder="Name">
+        <input type="text" id="password" placeholder="Password">
+        <input type="submit" value="Login">
+    </form> -->
+    <div id="my-user">
+        <p></p>
+    </div>
+    <h3>Add</h3>
+    <form action="javascript:void(0);" method="POST" onsubmit="addTask()">
+        <input type="text" id="add-name" placeholder="New task">
+        <input type="submit" value="Add">
+    </form>
+
+    <div id="editForm">
+        <h3>Edit</h3>
+        <form action="javascript:void(0);" onsubmit="updateItem()">
+            <input type="hidden" id="edit-id">
+            <input type="checkbox" id="edit-isDone">
+            <input type="text" id="edit-name">
+            <input type="submit" value="Save">
+            <a onclick="closeInput()" aria-label="Close">&#10006;</a>
+        </form>
+    </div>
+
+        <h3>to do list</h3>
+        <p id="counter"></p>
+        <table>
+            <tr>
+                <th>Is done?</th>
+                <th>Name</th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tbody id="tasks"></tbody>
+        </table>
+    
+    
+    <script src="js/app2.js" asp-append-version="true"></script>
+    <script type="text/javascript">
+        getTasks();
+        getMyUser();
+    </script>
+</body>
+</html>

@@ -1,0 +1,225 @@
+C:\תכנות\core\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\תכנות\core\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\core\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\תכנות\core\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\תכנות\core\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\תכנות\core\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות\core\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות\core\task\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות\core\task\bin\Debug\net6.0\appsettings.json
+C:\תכנות\core\task\bin\Debug\net6.0\task.exe
+C:\תכנות\core\task\bin\Debug\net6.0\task.deps.json
+C:\תכנות\core\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\תכנות\core\task\bin\Debug\net6.0\task.dll
+C:\תכנות\core\task\bin\Debug\net6.0\task.pdb
+C:\תכנות\core\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות\core\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות\core\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות\core\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות\core\task\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות\core\task\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות\core\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+C:\תכנות\core\task\obj\Debug\net6.0\task.csproj.CopyComplete
+C:\תכנות\core\task\obj\Debug\net6.0\task.dll
+C:\תכנות\core\task\obj\Debug\net6.0\refint\task.dll
+C:\תכנות\core\task\obj\Debug\net6.0\task.pdb
+C:\תכנות\core\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\תכנות\core\task\obj\Debug\net6.0\ref\task.dll
+E:\hw\core\task\bin\Debug\net6.0\appsettings.Development.json
+E:\hw\core\task\bin\Debug\net6.0\appsettings.json
+E:\hw\core\task\bin\Debug\net6.0\task.staticwebassets.runtime.json
+E:\hw\core\task\bin\Debug\net6.0\task.exe
+E:\hw\core\task\bin\Debug\net6.0\task.deps.json
+E:\hw\core\task\bin\Debug\net6.0\task.runtimeconfig.json
+E:\hw\core\task\bin\Debug\net6.0\task.dll
+E:\hw\core\task\bin\Debug\net6.0\task.pdb
+E:\hw\core\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\hw\core\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hw\core\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hw\core\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hw\core\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+E:\hw\core\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\hw\core\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+E:\hw\core\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+E:\hw\core\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+E:\hw\core\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+E:\hw\core\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+E:\hw\core\task\obj\Debug\net6.0\staticwebassets.build.json
+E:\hw\core\task\obj\Debug\net6.0\staticwebassets.development.json
+E:\hw\core\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+E:\hw\core\task\obj\Debug\net6.0\task.csproj.CopyComplete
+E:\hw\core\task\obj\Debug\net6.0\task.dll
+E:\hw\core\task\obj\Debug\net6.0\refint\task.dll
+E:\hw\core\task\obj\Debug\net6.0\task.pdb
+E:\hw\core\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+E:\hw\core\task\obj\Debug\net6.0\ref\task.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\appsettings.json
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\data\Task.json
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\task.staticwebassets.runtime.json
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\task.exe
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\task.deps.json
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\task.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\task.pdb
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.csproj.CopyComplete
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\refint\task.dll
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.pdb
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\Users\Dell Vostro\Desktop\pnina\task\obj\Debug\net6.0\ref\task.dll
+E:\hw\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+E:\hw\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+E:\hw\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+E:\hw\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+E:\hw\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+E:\hw\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+E:\hw\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+E:\hw\task\obj\Debug\net6.0\task.dll
+E:\hw\task\obj\Debug\net6.0\refint\task.dll
+E:\hw\task\obj\Debug\net6.0\task.pdb
+E:\hw\task\bin\Debug\net6.0\appsettings.Development.json
+E:\hw\task\bin\Debug\net6.0\appsettings.json
+E:\hw\task\bin\Debug\net6.0\data\Task.json
+E:\hw\task\bin\Debug\net6.0\data\User.json
+E:\hw\task\bin\Debug\net6.0\task.staticwebassets.runtime.json
+E:\hw\task\bin\Debug\net6.0\task.exe
+E:\hw\task\bin\Debug\net6.0\task.deps.json
+E:\hw\task\bin\Debug\net6.0\task.runtimeconfig.json
+E:\hw\task\bin\Debug\net6.0\task.dll
+E:\hw\task\bin\Debug\net6.0\task.pdb
+E:\hw\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\hw\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hw\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hw\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hw\task\obj\Debug\net6.0\staticwebassets.build.json
+E:\hw\task\obj\Debug\net6.0\staticwebassets.development.json
+E:\hw\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+E:\hw\task\obj\Debug\net6.0\task.csproj.CopyComplete
+E:\hw\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+E:\hw\task\obj\Debug\net6.0\ref\task.dll
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.dll
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\refint\task.dll
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.pdb
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\appsettings.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\data\Task.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\data\User.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\task.staticwebassets.runtime.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\task.exe
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\task.deps.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\task.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\task.pdb
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.csproj.CopyComplete
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\תכנות\core\אחרוןןןן\task\obj\Debug\net6.0\ref\task.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנות\core\אחרוןןןן\task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\appsettings.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\data\Task.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\data\User.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\task.staticwebassets.runtime.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\task.exe
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\task.deps.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\task.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\task.pdb
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות\core\13-12 עד\task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.csproj.CopyComplete
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.dll
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\refint\task.dll
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.pdb
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\תכנות\core\13-12 עד\task\obj\Debug\net6.0\ref\task.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\appsettings.Development.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\appsettings.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\data\Task.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\data\User.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\task.staticwebassets.runtime.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\task.exe
+C:\תכנות\core\project\task\bin\Debug\net6.0\task.deps.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\task.runtimeconfig.json
+C:\תכנות\core\project\task\bin\Debug\net6.0\task.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\task.pdb
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\תכנות\core\project\task\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cs
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.MvcApplicationPartsAssemblyInfo.cache
+C:\תכנות\core\project\task\obj\Debug\net6.0\staticwebassets.build.json
+C:\תכנות\core\project\task\obj\Debug\net6.0\staticwebassets.development.json
+C:\תכנות\core\project\task\obj\Debug\net6.0\scopedcss\bundle\task.styles.css
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.csproj.CopyComplete
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.dll
+C:\תכנות\core\project\task\obj\Debug\net6.0\refint\task.dll
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.pdb
+C:\תכנות\core\project\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+C:\תכנות\core\project\task\obj\Debug\net6.0\ref\task.dll
