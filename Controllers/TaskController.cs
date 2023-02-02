@@ -24,15 +24,8 @@ namespace MyTask.Controllers
 
         public TaskController(ITaskService TaskService)
         {
-            this.TaskService=TaskService;
-            // var user= httpContextAccessor.HttpContext.User;
-            // userId = int.Parse(user.FindFirst("Id")?.Value); 
+            this.TaskService = TaskService;
         }
-
-
-        // [HttpGet]
-        // public ActionResult<IEnumerable<Task>> Get() => 
-        //     TaskService.GetAll();
 
 
         [HttpGet]
@@ -43,27 +36,15 @@ namespace MyTask.Controllers
             return TaskService.GetTasksByUserId(TokenService.decode(token));
         }
 
-        // [HttpGet]
-        // public ActionResult<IEnumerable<Task>> GetTasksByUserId(){
-        //     userId= 2;
-        //     return TaskService.GetTasksByUserId(userId);
-
-        // }
-            // var i=User.Claims.First(c=>(c.Type=="Id")).Value;
-            // int e=int.Parse(i);
-            // var r=TaskService.GetTasksByUserId(e);
-            // return r;
-      
-            
 
         [HttpGet("{id}")]
         [Authorize(Policy = "User")]
-        public ActionResult<Task> Get(int id) 
+        public ActionResult<Task> Get(int id)
         {
             var task = TaskService.Get(id);
             if (task == null)
                 return NotFound();
-            return task;          
+            return task;
         }
 
         [HttpPost]
@@ -71,23 +52,23 @@ namespace MyTask.Controllers
         public ActionResult Post(Task task)
         {
             var token = Request.Headers[HeaderNames.Authorization].ToString().Replace("Bearer ", "");
-            task.UserId=TokenService.decode(token);
+            task.UserId = TokenService.decode(token);
             TaskService.Add(task);
-            return CreatedAtAction(nameof(Post), new { Id = task.Id}, task);
+            return CreatedAtAction(nameof(Post), new { Id = task.Id }, task);
         }
 
         [HttpPut("{id}")]
         [Authorize(Policy = "User")]
-        public ActionResult Put(int id,Task task)
+        public ActionResult Put(int id, Task task)
         {
             var token = Request.Headers[HeaderNames.Authorization].ToString().Replace("Bearer ", "");
-            task.UserId=TokenService.decode(token);
+            task.UserId = TokenService.decode(token);
             if (id != task.Id)
                 return BadRequest("id <> task.Id");
-    
+
             var existingTask = TaskService.Get(id);
             if (existingTask is null)
-                return  NotFound();
+                return NotFound();
 
             TaskService.Update(task);
             return NoContent();
@@ -103,6 +84,6 @@ namespace MyTask.Controllers
             TaskService.Delete(id);
             return NoContent();
         }
-    
+
     }
 }

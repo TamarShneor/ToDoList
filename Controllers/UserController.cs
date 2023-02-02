@@ -57,7 +57,7 @@ namespace User.Controllers
         public ActionResult<user> Get(int id)
         {
             var token = Request.Headers[HeaderNames.Authorization].ToString().Replace("Bearer ", "");
-            int userId=TokenService.decode(token);
+            int userId = TokenService.decode(token);
             var u = UserService.Get(userId);
             if (u == null)
                 return NotFound();
@@ -72,7 +72,7 @@ namespace User.Controllers
             UserService.Add(u);
             return CreatedAtAction(nameof(Post), new { Id = u.Id }, u);
         }
-        
+
         [HttpDelete("{id}")]
         [Authorize(Policy = "Admin")]
         public ActionResult Delete(int id)

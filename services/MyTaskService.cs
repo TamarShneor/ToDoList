@@ -7,14 +7,14 @@ using System.Text.Json;
 
 namespace MyTask.services
 {
-    public class TaskService:ITaskService
+    public class TaskService : ITaskService
     {
         List<Task>? Tasks { get; }
-        private IWebHostEnvironment  webHost;
+        private IWebHostEnvironment webHost;
         private string filePath;
-        public TaskService(IWebHostEnvironment  webHost)
+        public TaskService(IWebHostEnvironment webHost)
         {
-               this.webHost = webHost;
+            this.webHost = webHost;
             this.filePath = Path.Combine(webHost.ContentRootPath, "data", "Task.json");
             using (var jsonFile = File.OpenText(filePath))
             {
@@ -32,17 +32,16 @@ namespace MyTask.services
             File.WriteAllText(filePath, JsonSerializer.Serialize(Tasks));
         }
         int nextId = 4;
-        // public List<Task> GetAll() => Tasks;
 
         public Task Get(int id) => Tasks.FirstOrDefault(p => p.Id == id);
 
         public void Add(Task task)
         {
             task.Id = nextId++;
-            
+
             Tasks.Add(task);
             saveToFile();
-            
+
         }
 
         public void Delete(int id)
@@ -54,7 +53,7 @@ namespace MyTask.services
             Tasks.Remove(task);
             saveToFile();
         }
-        
+
 
         public void Update(Task task)
         {
@@ -68,8 +67,9 @@ namespace MyTask.services
 
         public int Count => Tasks.Count();
 
-        public List<Task> GetTasksByUserId(int id){
-            return Tasks.FindAll(t=>t.UserId==id); 
+        public List<Task> GetTasksByUserId(int id)
+        {
+            return Tasks.FindAll(t => t.UserId == id);
         }
 
     }
